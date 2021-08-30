@@ -13,6 +13,6 @@ The repository lists multiple seperate repositories for the specific check**mk**
 
 | Name                                                          | Descriptions                                                                            |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|[MySQL](https://github.com/comnetgmbh/mysql/tree/main)         | Performance MySQL Check                                                                 |
-|[SAP Cloud Connector](https://github.com/comnetgmbh/sapcc/tree/main) | This check determines information on a SAP Cloud Connector instance |
-|[Yum](https://github.com/comnetgmbh/yum/tree/main)             | Checks for updates on RPM-based distributions via yum                                   |
+|[MySQL](https://github.com/comnetgmbh/mysql_check/tree/main)         | Performance MySQL Check                                                                 |
+|[SAP Cloud Connector](https://github.com/comnetgmbh/sapcc_check/tree/main) | This check determines information on a SAP Cloud Connector instance |
+|[Yum](https://github.com/comnetgmbh/yum_check/tree/main)             | Checks for updates on RPM-based distributions via yum                                   |
