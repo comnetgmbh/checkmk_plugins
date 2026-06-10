@@ -13,7 +13,9 @@ The repository lists multiple seperate repositories for the specific check**mk**
 
 | Name                                                          | Descriptions                                                                            |
 |---------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|[MySQL](https://github.com/comnetgmbh/mysql_check/tree/main)         | Performance MySQL Check                                                                 |
-|[SAP Cloud Connector](https://github.com/comnetgmbh/sapcc_check/tree/main) | This check determines information on a SAP Cloud Connector instance |
-|[Yum](https://github.com/comnetgmbh/yum_check/tree/main)             | Checks for updates on RPM-based distributions via yum                                   |
+|[Huawei Oceanstor](https://github.com/comnetgmbh/huawei_oceanstor)|Checks for Huawei Oceanstor & Pacific storage systems via REST API|
 |[MultiDNS](https://github.com/comnetgmbh/multi_dns)|This special agent tests dynamically configured nameserver against configured URLs to ensure all DNS work and perform correctly|
+|[MySQL](https://github.com/comnetgmbh/mysql_check)         | Performance MySQL Check                                                                 |
+|[Proxmox Quick Setup & Dashboards](https://github.com/comnetgmbh/proxmox_quick_setup)|Proxmox Quick Setup and Dashboards for Checkmk|
+|[SAP Cloud Connector](https://github.com/comnetgmbh/sapcc_check) | This check determines information on a SAP Cloud Connector instance |
+|[Yum](https://github.com/comnetgmbh/yum_check)             | Checks for updates on RPM-based distributions via yum                                   |
