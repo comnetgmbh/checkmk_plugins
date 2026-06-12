@@ -2,7 +2,7 @@
 
 This repository contains [check**mk**](https://checkmk.com/) plugins developed by comNET GmbH and released to the general public.
 
-Development of these plugins can be sponsored by opening a [support request](https://www.comnetgmbh.com) via E-Mail to <opensource@comnetgmbh.com>
+Development of these plugins can be sponsored by opening a [support request](https://www.comnet-solutions.de) via E-Mail to <opensource@comnetgmbh.com>
 
 ## Repository structure
 
